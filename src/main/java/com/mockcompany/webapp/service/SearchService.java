@@ -69,6 +69,7 @@ public class SearchService {
             }
         }
         // Return results
+        // List<ProductItem> emptyList = new ArrayList<>();
         return itemList;
     }
 }
